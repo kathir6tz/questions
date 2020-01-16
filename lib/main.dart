@@ -24,8 +24,8 @@ class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
 
-    var questions=["What is your name?","What is your pet name?"];
-    
+    var questions=["What is your name?","What is your pet name"];
+
     return MaterialApp(
       title: 'Flutter Demo',
       theme: ThemeData(
